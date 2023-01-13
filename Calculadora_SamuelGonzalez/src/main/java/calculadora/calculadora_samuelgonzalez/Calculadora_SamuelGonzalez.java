@@ -13,5 +13,7 @@ public class Calculadora_SamuelGonzalez {
 
     public static void main(String[] args) {
         System.out.println("Bienvenidos al programa de la Calculadora");
+        float numero1;
+        float numero2;
     }
 }
